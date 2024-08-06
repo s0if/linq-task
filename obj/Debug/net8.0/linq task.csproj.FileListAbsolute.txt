@@ -1,0 +1,15 @@
+C:\Users\Saif\Desktop\full stack\back end\linq task\bin\Debug\net8.0\linq task.exe
+C:\Users\Saif\Desktop\full stack\back end\linq task\bin\Debug\net8.0\linq task.deps.json
+C:\Users\Saif\Desktop\full stack\back end\linq task\bin\Debug\net8.0\linq task.runtimeconfig.json
+C:\Users\Saif\Desktop\full stack\back end\linq task\bin\Debug\net8.0\linq task.dll
+C:\Users\Saif\Desktop\full stack\back end\linq task\bin\Debug\net8.0\linq task.pdb
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.AssemblyInfo.cs
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.sourcelink.json
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.dll
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\refint\linq task.dll
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.pdb
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\linq task.genruntimeconfig.cache
+C:\Users\Saif\Desktop\full stack\back end\linq task\obj\Debug\net8.0\ref\linq task.dll
